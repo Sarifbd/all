@@ -1,0 +1,31 @@
+.container{
+	width: 100%;
+	background-color: red;
+	height: 80px;
+	clear: both;
+
+}
+
+.logo{
+	float: left;
+	padding: 11px
+}
+
+
+.menu{
+	float: left;
+    padding-left: 297px;
+    margin-top: 20px;
+	
+
+
+}
+
+
+.list{
+
+	
+	display: inline-block;
+    padding: 10px;
+
+}
