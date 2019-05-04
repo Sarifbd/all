@@ -1,0 +1,221 @@
+.container{
+    width: 100%;
+    height: 71px;
+    background-color:#9e9090;;
+    clear: both;
+}
+.logo{
+    float: left;
+    padding: 5px;
+    padding-left: 20px;
+    padding-top: 24px;
+}
+.logol{
+    font-size: 20px;
+    background: gainsboro;
+    padding-right: 20px;
+    padding: 18px;
+    display: inline;
+    color: midnightblue;}
+
+.my{ 
+    float: left;
+    font-size: 18px;
+    padding: 22px;
+    padding-left: 68px;
+    padding-top: 24px;
+    padding-bottom: 5px;
+    color: #fff;
+
+}
+
+.list_menu{
+    float: left;
+    text-align: center;
+    padding-left: 236px;
+    padding-right: 228px;
+    padding-top: 9px;
+}
+.list{
+
+    display: inline-block;
+    font-style: none;
+    font-size: 20px;
+    background: gray;
+    padding: 0px;
+    padding-right: 19px;
+    padding-left: 19px;
+}
+.list:hover{
+
+	color: #fff;
+	background-color: green;
+}
+.icon{
+    float: left;
+    padding-left: 97px;
+    font-size: 48px;
+    color: #fff;
+    padding-top: 7px;
+    
+}
+.ioc{
+	font-size: 33px;
+	color: #fff;
+}
+.ico:hover{
+	color: green;
+}
+.menu{
+    clear: both;
+    width: 100%;
+    height: 55px;
+    background: gainsboro;
+}
+.listd{
+    display: inline;
+    font-size: 18px;
+    padding: 1px;
+    padding-left: 33px;
+    padding-right: 33px;
+    background-color: gray;
+    padding-bottom: 2px;
+}
+.listd_menu{
+    padding-top: 0px;
+    float: left;
+    padding-left: 25%;
+}
+
+.gaf{
+	padding: 11px;
+	clear: both;
+
+}
+.slite-all{width: 100%;
+    height: 413px;
+    background:#ced2dd;
+    clear: both;
+
+}
+.imegs{
+
+}
+.imegs img{
+    height: 413px;
+    padding-left: 527px;
+}
+.cection_all{
+    width: 100%;
+    height: 461px;
+    background-color: #afacac;
+    clear: both;
+  
+}
+
+.cection{
+    width: 12%;
+    height: 192px;
+    background-color: #9c9191;
+    float: left;
+    margin-left: 133px;
+    margin-top: 26px;
+    border-radius: 14px
+
+}
+.cection1{
+    width: 12%;
+    height: 193px;
+    background-color: #9c9191;
+    float: left;
+    margin-left: 18px;
+    margin-top: 26px;
+    border-radius: 14px
+}
+.cection5{
+    width: 12%;
+    height: 193px;
+    background-color: #9c9191;
+    float: left;
+    margin-left: 18px;
+    margin-top: 26px;
+    border-radius: 14px
+}
+.cection6{
+    width: 12%;
+    height: 192px;
+    background-color: #9c9191;
+    float: left;
+    margin-left: 23%;
+    margin-top: 26px;
+    border-radius: 14px;
+
+
+}
+.cection6 img{
+    padding-left: 30px;
+    padding-top: 19px;
+    width: 60%;
+    height: 121Px
+
+}
+.cection5 img{
+    padding-left: 30px;
+    padding-top: 19px;
+    width: 60%;
+    height: 121Px
+
+}
+.cection1 img{
+    padding-left: 30px;
+    padding-top: 19px;
+    width: 60%;
+    height: 121Px
+
+}
+
+.cection img{
+    padding-left: 30px;
+    padding-top: 19px;
+    width: 60%;
+    height: 121Px
+
+}
+h3{
+    text-align: center;
+    margin-top: 0px;
+    background: #888484;
+
+}
+
+.RP{
+	text-align: center;
+    font-size: 17px;
+    margin-top: -13px;
+    color: #fff;
+    margin-left: 43px;
+    margin-right: 62px;
+}
+/*this is my futer*/
+
+.futer{
+    width: 100%;
+    height: 300px;
+    background-color: #968282;
+    clear: both;
+
+}
+.nai{
+	padding: 11px;
+	clear: both;
+}
+.futer_cection{
+    background-color: #afacac;
+    width: 30%;
+    height: 132px;
+    text-align: center;
+}
+
+
+
+/*this is my futer*/
