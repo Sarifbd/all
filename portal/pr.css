@@ -1,0 +1,122 @@
+.container{
+	width: 100%;
+	background-color:#fb7303;
+	float: left;
+	clear: both;
+}
+
+.logo{
+    float: left;
+    padding-top: 2px;
+    padding-left: 33px;
+
+}
+.img{
+	 height: 37px;
+    width: 95px;
+}
+
+
+
+.list_menu{
+    float: left;
+    text-align: center;
+    padding-top: 3px;
+    padding-left: 25px;
+    padding-left: 252px;
+}
+.list{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    padding: 1px;
+    text-align: center;
+    padding-left: 16px;
+    background: gray;
+    padding-right: 16px;
+    color: #fff;
+
+}
+.list:hover {
+	color: red;
+	background: green;
+}
+.a{
+	color: #fff;
+	direction: none;
+}
+
+.iocn_list{
+    float: right;
+    padding-right: 78px;
+    padding-top: 3px;
+}
+.ico_list{
+	float: left;
+    text-align: center;
+    font-size: 43px;
+    padding-top: 8px;
+    padding-right: 6px;
+    padding-left: 3px;
+    color: #fff;
+}
+.gaf{
+	padding: 11px;
+	clear: both;
+}
+
+.gaf_c{
+	padding: 15px;
+	clear: both;
+
+}
+
+
+.para{
+    width: 27%;
+    text-align: justify;
+    padding: 6px;
+    background-color: gray;
+    float: left;
+    margin-left: 50px;
+}
+.para1{
+    width: 27%;
+    text-align: justify;
+    padding: 6px;
+    background-color: gray;
+    float: left;
+    margin-left: 50px;
+}
+h1{text-align: center;
+	margin-top: 1px;
+}
+.mm{
+	margin-top:15px;
+	margin: 12px;
+}
+.new_containar{
+    width: 100%;
+    background-color: red;
+    height: 400px;
+}
+.pic img{
+    float: left;
+    width: 159px;
+    height: 246px;
+    padding: 8px; 
+
+}
+.paragaraf{
+
+    text-align: justify;
+    width: 336px;
+    height: 255px;
+    padding-right: 3px;
+    padding-top: 6px;
+}
+.cection{
+    background-color:#cdd6cd;
+    width: 26%;
+    height: 263px;
+}
